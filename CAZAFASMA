@@ -1,0 +1,5 @@
+mkdir test-chain-5 
+
+./geth --datadir=./test-chain-5  --password ./password.txt account new > account1.txt
+
+./geth init --datadir ./test-chain-5 init brise.json
