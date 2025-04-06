@@ -1,0 +1,1 @@
+./geth --datadir test-chain-5 --port 40605  --bootnodes enode://5cefccf77557d8f41c3ff6777a5c73ef57a4999c8878788e659ec45dcaaca71b0f88e45ca28e1fdcec8731a597793ef698ae74ff0e2648d32ae0325984060569@ contact @gertsanem on telegram:0?discport=40606 --networkid 32520 -unlock '0x8B15464F8233F718c8605B16eBADA6fc09181fC2' --password ./password.txt --mine --allow-insecure-unlock
